@@ -1,0 +1,16 @@
+.container {
+    margin : auto ; 
+    margin-top : 20px ;
+    width : 70% ;
+    border: 2px solid #dedede;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 10px;
+    word-wrap: break-word;
+    box-shadow: 0 16px 32px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+    ;
+    
+  }
+h2{
+    text-decoration: underline
+} 

@@ -1,0 +1,37 @@
+.app{
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  
+}
+
+.appbody{
+  display: flex;
+  margin-top: -50px;
+  height: 90vh;
+  width: 90vw;
+}
+
+
+
+
+.container{
+  display: flex;
+  justify-content: center;
+
+  
+
+}
+
+.but{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 26px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
